@@ -1,0 +1,8 @@
+C:\Users\Via Marie\Desktop\MT_MANABO\MT_04_MANABO\MT_04_MANABO\bin\Debug\MT_04_MANABO.exe
+C:\Users\Via Marie\Desktop\MT_MANABO\MT_04_MANABO\MT_04_MANABO\bin\Debug\MT_04_MANABO.pdb
+C:\Users\Via Marie\Desktop\MT_MANABO\MT_04_MANABO\MT_04_MANABO\obj\x86\Debug\MT_04_MANABO.exe
+C:\Users\Via Marie\Desktop\MT_MANABO\MT_04_MANABO\MT_04_MANABO\obj\x86\Debug\MT_04_MANABO.pdb
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_04_MANABO\MT_04_MANABO\obj\x86\Debug\MT_04_MANABO.exe
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_04_MANABO\MT_04_MANABO\obj\x86\Debug\MT_04_MANABO.pdb
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_04_MANABO\MT_04_MANABO\bin\Debug\MT_04_MANABO.exe
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_04_MANABO\MT_04_MANABO\bin\Debug\MT_04_MANABO.pdb

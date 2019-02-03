@@ -1,0 +1,4 @@
+C:\Users\Via Marie\Desktop\MT_MANABO\MT_01_Manabo\MT_01_Manabo\bin\Debug\MT_01_Manabo.exe
+C:\Users\Via Marie\Desktop\MT_MANABO\MT_01_Manabo\MT_01_Manabo\bin\Debug\MT_01_Manabo.pdb
+C:\Users\Via Marie\Desktop\MT_MANABO\MT_01_Manabo\MT_01_Manabo\obj\x86\Debug\MT_01_Manabo.exe
+C:\Users\Via Marie\Desktop\MT_MANABO\MT_01_Manabo\MT_01_Manabo\obj\x86\Debug\MT_01_Manabo.pdb

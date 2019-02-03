@@ -1,0 +1,4 @@
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MIT_05_MANABO\MIT_05_MANABO\bin\Debug\MIT_05_MANABO.exe
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MIT_05_MANABO\MIT_05_MANABO\bin\Debug\MIT_05_MANABO.pdb
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MIT_05_MANABO\MIT_05_MANABO\obj\x86\Debug\MIT_05_MANABO.exe
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MIT_05_MANABO\MIT_05_MANABO\obj\x86\Debug\MIT_05_MANABO.pdb

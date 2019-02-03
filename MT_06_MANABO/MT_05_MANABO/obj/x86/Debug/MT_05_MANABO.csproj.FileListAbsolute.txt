@@ -1,0 +1,6 @@
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_05_MANABO\MT_05_MANABO\bin\Debug\MT_05_MANABO.exe
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_05_MANABO\MT_05_MANABO\bin\Debug\MT_05_MANABO.pdb
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_05_MANABO\MT_05_MANABO\obj\x86\Debug\MT_05_MANABO.Properties.Resources.resources
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_05_MANABO\MT_05_MANABO\obj\x86\Debug\MT_05_MANABO.csproj.GenerateResource.Cache
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_05_MANABO\MT_05_MANABO\obj\x86\Debug\MT_05_MANABO.exe
+C:\Users\Via Marie\Desktop\New folder (2)\MT_MANABO\MT_05_MANABO\MT_05_MANABO\obj\x86\Debug\MT_05_MANABO.pdb
